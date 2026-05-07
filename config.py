@@ -1,5 +1,5 @@
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8630193520:AAEeWR8zy99Un8QE3zpVTXo1alLq30BfF0s"
 
 CHANNEL_USERNAME = "@princexhitmanmods"
 CHANNEL_LINK = "https://t.me/princexhitmanmods"
